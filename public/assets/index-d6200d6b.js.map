@@ -1,1 +1,0 @@
-{"version":3,"file":"index-d6200d6b.js","sources":["../../src/ts/app.ts"],"sourcesContent":["//IMPORT STYLES\r\nimport \"../sass/main.scss\";\r\n\r\nconsole.log('hola');"],"names":[],"mappings":"ssBAGA,QAAQ,IAAI,MAAM"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"mainscript.js","sources":["../../src/ts/app.ts"],"sourcesContent":["//IMPORT STYLES\r\nimport \"../sass/main.scss\";\r\n\r\nconsole.log('funcionando');"],"names":[],"mappings":"AAGA,QAAQ,IAAI,aAAa;"}

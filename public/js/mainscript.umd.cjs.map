@@ -1,0 +1,1 @@
+{"version":3,"file":"mainscript.umd.cjs","sources":["../../src/ts/app.ts"],"sourcesContent":["//IMPORT STYLES\r\nimport \"../sass/main.scss\";\r\n\r\nconsole.log('funcionando');"],"names":[],"mappings":"sGAGA,QAAQ,IAAI,aAAa"}
