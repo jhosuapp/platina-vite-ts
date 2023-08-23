@@ -1,27 +1,27 @@
 @font-face {
-    font-family: 'nombre fuente';
-    src: url("url de la fuente");
+    font-family: 'test';
+    src: url("../fonts/test.ttf");
     font-weight: 400;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'nombre fuente';
-    src: url("url de la fuente");
+    font-family: 'test';
+    src: url("../fonts/test.ttf");
     font-weight: 500;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'nombre fuente';
-    src: url("url de la fuente");
+    font-family: 'test';
+    src: url("../fonts/test.ttf");
     font-weight: 700;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'nombre fuente';
-    src: url("url de la fuente");
+    font-family: 'test';
+    src: url("../fonts/test.ttf");
     font-weight: 800;
     font-display: swap;
 }
@@ -53,7 +53,7 @@ input,
 input::placeholder,
 ::before,
 ::after {
-    font-family: 'nombre de la fuente', sans-serif;
+    font-family: 'test', sans-serif;
     font-weight: 400;
 }
 
