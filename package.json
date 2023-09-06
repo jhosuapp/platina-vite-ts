@@ -1,7 +1,7 @@
 {
-  "name": "template-vite",
+  "name": "jselect",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "tsc && vite build",
